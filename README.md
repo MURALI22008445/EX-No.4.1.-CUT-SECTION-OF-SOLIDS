@@ -45,7 +45,8 @@ To create the solid model from given drawing and section the solid model
 
 
 
-[4.1 murali.pdf](https://github.com/MURALI22008445/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/files/12826301/4.1.murali.pdf)
+
+![WhatsApp Image 2023-10-06 at 07 49 18](https://github.com/MURALI22008445/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/119643767/bd386c02-cb91-4129-a44e-2ba4bcdccf43)
 
 
 ## RESULT:
